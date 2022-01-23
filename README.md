@@ -14,6 +14,9 @@ Fairseq(-py) is a sequence modeling toolkit that allows researchers and
 developers to train custom models for translation, summarization, language
 modeling and other text generation tasks.
 
+Youtube fairseq demo: https://www.youtube.com/watch?v=OtgDdWtHvto
+Paper: https://arxiv.org/pdf/1904.01038.pdf
+
 We provide reference implementations of various sequence modeling papers:
 
 <details><summary>List of implemented papers</summary><p>
